@@ -149,7 +149,3 @@ employeeworkerreg/
 ## License
 
 This project is created for educational purposes.
-
-## Contact
-
-For questions or support, please contact your system administrator.
